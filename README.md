@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Muhammad Abbas</h1>
+ <h1 align="center">Hi👋, I'm Muhammad Abbas</h1>
 
 - 📫 How to reach me: emabbas1214@gmail.com
   
