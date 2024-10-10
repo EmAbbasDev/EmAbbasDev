@@ -19,6 +19,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmAbbasDev&theme=dark)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbasturii110&theme=dark" alt="EmAbbasDev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmAbbasDev&theme=dark" alt="EmAbbasDev" /></p>
 
 
