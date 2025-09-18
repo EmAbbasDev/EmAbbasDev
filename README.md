@@ -16,7 +16,7 @@
 
 ![Muhammad Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmAbbasDev&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?/top-langs/?username=EmAbbasDev&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api?/top-langs/?username=EmAbbasDev&theme=dark)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EmAbbasDev&theme=dark" alt="EmAbbasDev" /></p>
