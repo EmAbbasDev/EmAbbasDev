@@ -14,7 +14,7 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman&perline=4)](https://skillicons.dev)
 
-![Muhammad Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmAbbasDev&show_icons=true&theme=dark)
+![Muhammad Abbas's GitHub stats]([https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EmAbbasDev&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?/top-langs/?username=EmAbbasDev&theme=dark)
 
